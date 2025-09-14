@@ -1,2 +1,3 @@
+datos/*.csv filter=lfs diff=lfs merge=lfs -text
 datos/financiamiento_2024_rev_rest.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
